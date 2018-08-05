@@ -209,6 +209,7 @@ SWIFT_CLASS("_TtC7iOS_wis10Webinstats")
 + (void)disable_push;
 + (void)enable_push;
 + (NSString * _Nonnull)getPushToken SWIFT_WARN_UNUSED_RESULT;
++ (void)removeViewWithParent:(UIViewController * _Nonnull)parent;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
 @end
