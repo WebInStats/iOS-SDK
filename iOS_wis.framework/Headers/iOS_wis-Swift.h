@@ -184,9 +184,13 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
+
+
 @class UIViewController;
 @class UITextView;
 @class UIApplication;
+@class UNNotificationRequest;
+@class UNMutableNotificationContent;
 
 SWIFT_CLASS("_TtC7iOS_wis10Webinstats")
 @interface Webinstats : NSObject <UIApplicationDelegate>
@@ -205,6 +209,7 @@ SWIFT_CLASS("_TtC7iOS_wis10Webinstats")
 - (void)register:(UIApplication * _Nonnull)application didFinishLaunchingWithOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.register(_:didFinishLaunchingWithOptions:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
 - (void)didReceiveNotification:(UIApplication * _Nonnull)application didReceiveRemoteNotification:(NSDictionary * _Nonnull)userInfo SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.didReceiveNotification(_:didReceiveRemoteNotification:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
 + (void)registerWithDeviceTokenWithDeviceToken:(NSString * _Nonnull)deviceToken SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.registerWithDeviceToken(deviceToken:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
++ (UNMutableNotificationContent * _Nonnull)didReceiveNotificationExtension:(UNNotificationRequest * _Nonnull)request :(UNMutableNotificationContent * _Nonnull)content SWIFT_WARN_UNUSED_RESULT SWIFT_AVAILABILITY(ios,introduced=10.0) SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.didReceiveNotificationExtension(_:_:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
 + (void)setPayloadLinkWithLink:(NSString * _Nonnull)link SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.setPayloadLink(link:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
 + (void)disable_push SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.disable_push()' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
 + (void)enable_push SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.enable_push()' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
