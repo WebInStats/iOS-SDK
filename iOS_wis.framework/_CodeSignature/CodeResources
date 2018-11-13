@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/iOS_wis-Swift.h</key>
 		<data>
-		PZyXFh/vRazb+FyZaOmBMDb1Xzw=
+		3kr9MjQuS8G3zSWbA2lMZ+8UriM=
 		</data>
 		<key>Headers/iOS_wis.h</key>
 		<data>
@@ -14,27 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WLC2gtRzUNFyFmH25w2Cj6nc5KQ=
+		6+2fr5nOflrzojq7dFNBq6tjnyY=
 		</data>
 		<key>Modules/iOS_wis.swiftmodule/arm.swiftdoc</key>
 		<data>
-		inzFXe/DkB7dozsRKAceIEPEZNo=
+		MwNKPMORb6NPDh3rmvCkJQcQ8cg=
 		</data>
 		<key>Modules/iOS_wis.swiftmodule/arm.swiftmodule</key>
 		<data>
-		2KgwRHiDeZTQ61qTcb2eygffBXI=
+		zWuYdfPMAnS997afNjicR7cjvLo=
 		</data>
 		<key>Modules/iOS_wis.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		g+rab14agHdq0nAri5w6r1jLA80=
+		BGq+HgW59hEuqQHfC4baMfsWDsY=
 		</data>
 		<key>Modules/iOS_wis.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		3EfTgooM9vTYdUz33DLyHzoVIWg=
+		lUzUdkLzzZmKx8Ng6B06z+uezUo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		wegb6KPyxk2gC0MtNt4bayh/Fpw=
+		</data>
+		<key>christmas1.aiff</key>
+		<data>
+		bKyWGI7mvtTcGsXhwPHwah2UFtk=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -43,11 +47,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PZyXFh/vRazb+FyZaOmBMDb1Xzw=
+			3kr9MjQuS8G3zSWbA2lMZ+8UriM=
 			</data>
 			<key>hash2</key>
 			<data>
-			9otEjeFI6nf4zwcLIBcalLE5IMzUI5/fegmgbU6V8qI=
+			LeNe8d7wj0C6+fc78Tg3MyceRYJQNIYt0HzFXBwezUo=
 			</data>
 		</dict>
 		<key>Headers/iOS_wis.h</key>
@@ -65,44 +69,44 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			inzFXe/DkB7dozsRKAceIEPEZNo=
+			MwNKPMORb6NPDh3rmvCkJQcQ8cg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Jp0oQMzfDEIKpgHWofBFKSKeZ6HQo49xQ6vEhgks4NU=
+			XauyVVjwdWluB1T73gA3YP1nOGaSYKn8ml/EYFc2fxk=
 			</data>
 		</dict>
 		<key>Modules/iOS_wis.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			2KgwRHiDeZTQ61qTcb2eygffBXI=
+			zWuYdfPMAnS997afNjicR7cjvLo=
 			</data>
 			<key>hash2</key>
 			<data>
-			ArcUAv8OBjGvU4b6F7Ls7y9zW+xrkXxtfM62SkkoUfM=
+			rqar3RNuenYaf9KuWuPK0oN55LYNCXctZR7JKEoEc5c=
 			</data>
 		</dict>
 		<key>Modules/iOS_wis.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			g+rab14agHdq0nAri5w6r1jLA80=
+			BGq+HgW59hEuqQHfC4baMfsWDsY=
 			</data>
 			<key>hash2</key>
 			<data>
-			8zG6xanJV0HYKSOskjdLNmPyPFU9tZzdfYE3ZAfhG/o=
+			2a6hwhBe58+BX7gvcm0Q2PTr9q5nK3sVtu8g11O8Ha4=
 			</data>
 		</dict>
 		<key>Modules/iOS_wis.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3EfTgooM9vTYdUz33DLyHzoVIWg=
+			lUzUdkLzzZmKx8Ng6B06z+uezUo=
 			</data>
 			<key>hash2</key>
 			<data>
-			5tzKptj3gYL6NB9Yezq/Dov5lGfDcCgWDqS9tcyzFDw=
+			0VoX2TOjVNcgKEPd0mqpGwjL+Tat8nMm6w4xySvRNK8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -114,6 +118,17 @@
 			<key>hash2</key>
 			<data>
 			S8lgx2h/PGPblgSodDLKKxjvCTrZTYlJeaMyLlXAIb0=
+			</data>
+		</dict>
+		<key>christmas1.aiff</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bKyWGI7mvtTcGsXhwPHwah2UFtk=
+			</data>
+			<key>hash2</key>
+			<data>
+			ceQRVpoY0BZ56ziIa1Y5hjuS+spS56Qrt2Lk324ufUk=
 			</data>
 		</dict>
 	</dict>
