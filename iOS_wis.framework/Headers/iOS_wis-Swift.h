@@ -163,6 +163,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # define SWIFT_DEPRECATED_OBJC(Msg) SWIFT_DEPRECATED_MSG(Msg)
 #endif
 #if __has_feature(modules)
+@import Foundation;
 @import ObjectiveC;
 @import UIKit;
 @import UserNotifications;
@@ -185,10 +186,35 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
+@class UIViewController;
+@class UITextView;
+@class UIApplication;
+@class UNNotificationRequest;
+@class UNMutableNotificationContent;
 
 SWIFT_CLASS("_TtC7iOS_wis10Webinstats")
 @interface Webinstats : NSObject <UIApplicationDelegate>
 - (nonnull instancetype)init:(NSString * _Nonnull)wis_cburl :(NSString * _Nonnull)wis_s :(NSString * _Nonnull)wis_sscookie OBJC_DESIGNATED_INITIALIZER;
+- (void)add_actionWithDi:(NSString * _Nonnull)di pt:(NSString * _Nonnull)pt v:(NSString * _Nonnull)v id:(NSString * _Nonnull)id to:(NSString * _Nonnull)to lv:(NSString * _Nonnull)lv;
+- (void)add_labelWithDi:(NSString * _Nonnull)di pt:(NSString * _Nonnull)pt v:(NSString * _Nonnull)v id:(NSString * _Nonnull)id to:(NSString * _Nonnull)to lv:(NSString * _Nonnull)lv;
+- (void)executeWithView:(UIViewController * _Nonnull)view localmap:(NSDictionary<NSString *, NSString *> * _Nonnull)localmap;
+- (void)getLinkWithText:(UITextView * _Nonnull)text;
+- (NSString * _Nonnull)getuid SWIFT_WARN_UNUSED_RESULT;
++ (void)_clinkWithParameters:(NSDictionary<NSString *, id> * _Nonnull)parameters;
++ (void)saveClickCookieWithParameters:(NSDictionary<NSString *, id> * _Nonnull)parameters view:(UIViewController * _Nonnull)view;
+- (void)saveClickEventWithParameters:(NSDictionary<NSString *, id> * _Nonnull)parameters;
+- (void)szbidWithParameters:(NSDictionary<NSString *, id> * _Nonnull)parameters;
+- (void)trackWithParameters:(NSDictionary<NSString *, id> * _Nonnull)parameters;
+- (void)saveTestParametersWithUrl:(NSURL * _Nonnull)url;
+- (void)register:(UIApplication * _Nonnull)application didFinishLaunchingWithOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions;
+- (void)didReceiveNotification:(UIApplication * _Nonnull)application didReceiveRemoteNotification:(NSDictionary * _Nonnull)userInfo;
++ (void)registerWithDeviceTokenWithDeviceToken:(NSString * _Nonnull)deviceToken;
++ (UNMutableNotificationContent * _Nonnull)didReceiveNotificationExtension:(UNNotificationRequest * _Nonnull)request :(UNMutableNotificationContent * _Nonnull)content SWIFT_WARN_UNUSED_RESULT SWIFT_AVAILABILITY(ios,introduced=10.0);
+- (void)createEventWithEventname:(NSString * _Nonnull)eventname;
++ (void)setPayloadLinkWithLink:(NSString * _Nonnull)link;
++ (void)disable_push;
++ (void)enable_push;
++ (NSString * _Nonnull)getPushToken SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
 @end
