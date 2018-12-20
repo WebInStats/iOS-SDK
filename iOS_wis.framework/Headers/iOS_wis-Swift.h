@@ -163,7 +163,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # define SWIFT_DEPRECATED_OBJC(Msg) SWIFT_DEPRECATED_MSG(Msg)
 #endif
 #if __has_feature(modules)
-@import Foundation;
 @import ObjectiveC;
 @import UIKit;
 @import UserNotifications;
@@ -186,34 +185,10 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
-@class UIViewController;
-@class UITextView;
-@class UIApplication;
-@class UNNotificationRequest;
-@class UNMutableNotificationContent;
 
 SWIFT_CLASS("_TtC7iOS_wis10Webinstats")
 @interface Webinstats : NSObject <UIApplicationDelegate>
-- (nonnull instancetype)init:(NSString * _Nonnull)wis_cburl :(NSString * _Nonnull)wis_s :(NSString * _Nonnull)wis_sscookie OBJC_DESIGNATED_INITIALIZER SWIFT_DEPRECATED_OBJC("Swift initializer 'Webinstats.init(_:_:_:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-- (void)add_actionWithDi:(NSString * _Nonnull)di pt:(NSString * _Nonnull)pt v:(NSString * _Nonnull)v id:(NSString * _Nonnull)id to:(NSString * _Nonnull)to lv:(NSString * _Nonnull)lv SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.add_action(di:pt:v:id:to:lv:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-- (void)add_labelWithDi:(NSString * _Nonnull)di pt:(NSString * _Nonnull)pt v:(NSString * _Nonnull)v id:(NSString * _Nonnull)id to:(NSString * _Nonnull)to lv:(NSString * _Nonnull)lv SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.add_label(di:pt:v:id:to:lv:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-- (void)executeWithView:(UIViewController * _Nonnull)view localmap:(NSDictionary<NSString *, NSString *> * _Nonnull)localmap SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.execute(view:localmap:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-- (void)getLinkWithText:(UITextView * _Nonnull)text SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.getLink(text:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-- (NSString * _Nonnull)getuid SWIFT_WARN_UNUSED_RESULT SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.getuid()' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-+ (void)_clinkWithParameters:(NSDictionary<NSString *, id> * _Nonnull)parameters SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats._clink(parameters:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-+ (void)saveClickCookieWithParameters:(NSDictionary<NSString *, id> * _Nonnull)parameters view:(UIViewController * _Nonnull)view SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.saveClickCookie(parameters:view:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-- (void)saveClickEventWithParameters:(NSDictionary<NSString *, id> * _Nonnull)parameters SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.saveClickEvent(parameters:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-- (void)szbidWithParameters:(NSDictionary<NSString *, id> * _Nonnull)parameters SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.szbid(parameters:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-- (void)trackWithParameters:(NSDictionary<NSString *, id> * _Nonnull)parameters SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.track(parameters:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-- (void)saveTestParametersWithUrl:(NSURL * _Nonnull)url SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.saveTestParameters(url:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-- (void)register:(UIApplication * _Nonnull)application didFinishLaunchingWithOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.register(_:didFinishLaunchingWithOptions:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-- (void)didReceiveNotification:(UIApplication * _Nonnull)application didReceiveRemoteNotification:(NSDictionary * _Nonnull)userInfo SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.didReceiveNotification(_:didReceiveRemoteNotification:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-+ (void)registerWithDeviceTokenWithDeviceToken:(NSString * _Nonnull)deviceToken SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.registerWithDeviceToken(deviceToken:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-+ (UNMutableNotificationContent * _Nonnull)didReceiveNotificationExtension:(UNNotificationRequest * _Nonnull)request :(UNMutableNotificationContent * _Nonnull)content SWIFT_WARN_UNUSED_RESULT SWIFT_AVAILABILITY(ios,introduced=10.0) SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.didReceiveNotificationExtension(_:_:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-+ (void)setPayloadLinkWithLink:(NSString * _Nonnull)link SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.setPayloadLink(link:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-+ (void)disable_push SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.disable_push()' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-+ (void)enable_push SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.enable_push()' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-+ (NSString * _Nonnull)getPushToken SWIFT_WARN_UNUSED_RESULT SWIFT_DEPRECATED_OBJC("Swift method 'Webinstats.getPushToken()' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
+- (nonnull instancetype)init:(NSString * _Nonnull)wis_cburl :(NSString * _Nonnull)wis_s :(NSString * _Nonnull)wis_sscookie OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_DEPRECATED_MSG("-init is unavailable");
 @end
