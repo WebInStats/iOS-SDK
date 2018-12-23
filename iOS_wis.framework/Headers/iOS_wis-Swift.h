@@ -184,7 +184,12 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
+@class NSObject;
 
+SWIFT_AVAILABILITY(ios_app_extension,introduced=10.0) SWIFT_AVAILABILITY(ios,introduced=10.0)
+@interface UNNotificationAttachment (SWIFT_EXTENSION(iOS_wis))
++ (UNNotificationAttachment * _Nullable)saveImageToDiskWithFileIdentifier:(NSString * _Nonnull)fileIdentifier data:(NSData * _Nonnull)data options:(NSDictionary * _Nullable)options SWIFT_WARN_UNUSED_RESULT;
+@end
 
 @class UIViewController;
 @class UITextView;
