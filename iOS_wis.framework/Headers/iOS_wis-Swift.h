@@ -214,7 +214,7 @@ SWIFT_CLASS("_TtC7iOS_wis10Webinstats")
 - (void)register:(UIApplication * _Nonnull)application didFinishLaunchingWithOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions;
 - (void)didReceiveNotification:(UIApplication * _Nonnull)application didReceiveRemoteNotification:(NSDictionary * _Nonnull)userInfo;
 + (void)registerWithDeviceTokenWithDeviceToken:(NSString * _Nonnull)deviceToken;
-+ (UNMutableNotificationContent * _Nonnull)didReceiveNotificationExtension:(UNNotificationRequest * _Nonnull)request :(UNMutableNotificationContent * _Nonnull)content SWIFT_WARN_UNUSED_RESULT SWIFT_AVAILABILITY(ios,introduced=10.0);
+- (UNMutableNotificationContent * _Nonnull)didReceiveNotificationExtension:(UNNotificationRequest * _Nonnull)request :(UNMutableNotificationContent * _Nonnull)content SWIFT_WARN_UNUSED_RESULT SWIFT_AVAILABILITY(ios,introduced=10.0);
 - (void)createEventWithEventname:(NSString * _Nonnull)eventname;
 + (void)setPayloadLinkWithLink:(NSString * _Nonnull)link;
 + (void)disable_push;
