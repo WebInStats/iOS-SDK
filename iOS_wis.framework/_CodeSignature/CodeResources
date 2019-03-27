@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/iOS_wis-Swift.h</key>
 		<data>
-		7v31Lw/Y9mhsIU4DKKDmceExAI8=
+		OnRbulvJyS3t2WUq8m2emhKptvo=
 		</data>
 		<key>Headers/iOS_wis.h</key>
 		<data>
@@ -14,23 +14,31 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		7JCCoUkdlQ7jQyHY6nAic1TiZK8=
+		/+VfOUWsOzz58s+IIB8EiXrFdyk=
 		</data>
 		<key>Modules/iOS_wis.swiftmodule/arm.swiftdoc</key>
 		<data>
-		MwNKPMORb6NPDh3rmvCkJQcQ8cg=
+		vIKQNqFbyUYR056Mu16O5MO8nIQ=
 		</data>
 		<key>Modules/iOS_wis.swiftmodule/arm.swiftmodule</key>
 		<data>
-		VM74cByUejmlZWEg19Sjw2L9Rjw=
+		vglXmdwp2PYNffi0MJel56kdh9s=
 		</data>
 		<key>Modules/iOS_wis.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		BGq+HgW59hEuqQHfC4baMfsWDsY=
+		pddmMdRvX8tu+hRbSBGFq7GG7mA=
 		</data>
 		<key>Modules/iOS_wis.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		PcIZBbZFBSZDFsfj02SGo2HebpQ=
+		GjdSGKFIalEjOdsiK5tdjoFHlyo=
+		</data>
+		<key>Modules/iOS_wis.swiftmodule/armv7.swiftdoc</key>
+		<data>
+		vIKQNqFbyUYR056Mu16O5MO8nIQ=
+		</data>
+		<key>Modules/iOS_wis.swiftmodule/armv7.swiftmodule</key>
+		<data>
+		vglXmdwp2PYNffi0MJel56kdh9s=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -43,11 +51,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7v31Lw/Y9mhsIU4DKKDmceExAI8=
+			OnRbulvJyS3t2WUq8m2emhKptvo=
 			</data>
 			<key>hash2</key>
 			<data>
-			s5QXk7oI32kk1SLuKd3fm4EoTVvDFkDQfDTvHdv6Y+M=
+			ZNQLwS1t58EWBPfK8AA8A+RfOy56VJpBdJ7RXJD5J0U=
 			</data>
 		</dict>
 		<key>Headers/iOS_wis.h</key>
@@ -65,44 +73,66 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MwNKPMORb6NPDh3rmvCkJQcQ8cg=
+			vIKQNqFbyUYR056Mu16O5MO8nIQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			XauyVVjwdWluB1T73gA3YP1nOGaSYKn8ml/EYFc2fxk=
+			4/WQtfMFyGJGsPieSdtytP+4fxgH/J3q+X5c1AHDqC4=
 			</data>
 		</dict>
 		<key>Modules/iOS_wis.swiftmodule/arm.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			VM74cByUejmlZWEg19Sjw2L9Rjw=
+			vglXmdwp2PYNffi0MJel56kdh9s=
 			</data>
 			<key>hash2</key>
 			<data>
-			RaTt0zLNDafLo9wHmfXuXtGMEYJr9hsCvb7VklozkaI=
+			9ROPqj+jjmuauQUMDitKpQynCl8istm5l2NqJ2ZtjXw=
 			</data>
 		</dict>
 		<key>Modules/iOS_wis.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			BGq+HgW59hEuqQHfC4baMfsWDsY=
+			pddmMdRvX8tu+hRbSBGFq7GG7mA=
 			</data>
 			<key>hash2</key>
 			<data>
-			2a6hwhBe58+BX7gvcm0Q2PTr9q5nK3sVtu8g11O8Ha4=
+			mge5DNlOI+H31N6USAdCszg7REF4Faed50ywm/jzzxE=
 			</data>
 		</dict>
 		<key>Modules/iOS_wis.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PcIZBbZFBSZDFsfj02SGo2HebpQ=
+			GjdSGKFIalEjOdsiK5tdjoFHlyo=
 			</data>
 			<key>hash2</key>
 			<data>
-			BvblHGH/iEEdtprAssxyrcIqnyH5zqrGR/hlB+Ochk8=
+			0gesiW0oS1PoxoE/Rn0vegs/QFy+r1ehCBpFDnn3bRc=
+			</data>
+		</dict>
+		<key>Modules/iOS_wis.swiftmodule/armv7.swiftdoc</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vIKQNqFbyUYR056Mu16O5MO8nIQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			4/WQtfMFyGJGsPieSdtytP+4fxgH/J3q+X5c1AHDqC4=
+			</data>
+		</dict>
+		<key>Modules/iOS_wis.swiftmodule/armv7.swiftmodule</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vglXmdwp2PYNffi0MJel56kdh9s=
+			</data>
+			<key>hash2</key>
+			<data>
+			9ROPqj+jjmuauQUMDitKpQynCl8istm5l2NqJ2ZtjXw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -119,7 +149,7 @@
 	</dict>
 	<key>rules</key>
 	<dict>
-		<key>^</key>
+		<key>^.*</key>
 		<true/>
 		<key>^.*\.lproj/</key>
 		<dict>
@@ -150,24 +180,12 @@
 			<key>weight</key>
 			<real>11</real>
 		</dict>
-		<key>^</key>
-		<dict>
-			<key>weight</key>
-			<real>20</real>
-		</dict>
 		<key>^(.*/)?\.DS_Store$</key>
 		<dict>
 			<key>omit</key>
 			<true/>
 			<key>weight</key>
 			<real>2000</real>
-		</dict>
-		<key>^(Frameworks|SharedFrameworks|PlugIns|Plug-ins|XPCServices|Helpers|MacOS|Library/(Automator|Spotlight|LoginItems))/</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^.*</key>
 		<true/>
@@ -203,13 +221,6 @@
 			<true/>
 			<key>weight</key>
 			<real>20</real>
-		</dict>
-		<key>^[^/]+$</key>
-		<dict>
-			<key>nested</key>
-			<true/>
-			<key>weight</key>
-			<real>10</real>
 		</dict>
 		<key>^embedded\.provisionprofile$</key>
 		<dict>
