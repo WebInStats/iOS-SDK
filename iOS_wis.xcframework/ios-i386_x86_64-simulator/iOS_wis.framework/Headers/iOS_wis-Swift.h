@@ -223,7 +223,8 @@ SWIFT_AVAILABILITY(ios_app_extension,introduced=10.0) SWIFT_AVAILABILITY(ios,int
 
 SWIFT_CLASS("_TtC7iOS_wis10Webinstats")
 @interface Webinstats : NSObject <UIApplicationDelegate>
-- (nonnull instancetype)init:(NSString * _Nonnull)wis_cburl :(NSString * _Nonnull)wis_s :(NSString * _Nonnull)wis_sscookie OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init:(NSString * _Nonnull)wis_cburl :(NSString * _Nonnull)wis_s :(NSString * _Nonnull)wis_sscookie :(NSString * _Nonnull)wis_enable_settings OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init:(NSString * _Nonnull)wis_cburl :(NSString * _Nonnull)wis_s :(NSString * _Nonnull)wis_sscookie;
 - (void)trackAppInstallWithAdjustWithNetwork:(NSString * _Nonnull)network campaign:(NSString * _Nonnull)campaign;
 - (void)trackAppInstallWithAdjustWithNetwork:(NSString * _Nonnull)network campaign:(NSString * _Nonnull)campaign idfa:(NSString * _Nonnull)idfa;
 - (void)trackAppInstallWithAdjustWithTrackerToken:(NSString * _Nonnull)trackerToken trackerName:(NSString * _Nonnull)trackerName network:(NSString * _Nonnull)network campaign:(NSString * _Nonnull)campaign adgroup:(NSString * _Nonnull)adgroup creative:(NSString * _Nonnull)creative clickLabel:(NSString * _Nonnull)clickLabel adid:(NSString * _Nonnull)adid;
@@ -254,6 +255,7 @@ SWIFT_CLASS("_TtC7iOS_wis10Webinstats")
 - (void)trackDeepLinkWithUrl:(NSURL * _Nonnull)url;
 - (void)setApiKeyWithApi_key:(NSString * _Nonnull)api_key;
 - (void)register:(UIApplication * _Nonnull)application didFinishLaunchingWithOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions;
+- (void)register;
 - (void)didReceiveNotification:(UIApplication * _Nonnull)application didReceiveRemoteNotification:(NSDictionary * _Nonnull)userInfo;
 + (void)registerWithDeviceTokenWithDeviceToken:(NSData * _Nonnull)deviceToken;
 - (void)getMessagesFromUserDefaults;
@@ -568,7 +570,8 @@ SWIFT_AVAILABILITY(ios_app_extension,introduced=10.0) SWIFT_AVAILABILITY(ios,int
 
 SWIFT_CLASS("_TtC7iOS_wis10Webinstats")
 @interface Webinstats : NSObject <UIApplicationDelegate>
-- (nonnull instancetype)init:(NSString * _Nonnull)wis_cburl :(NSString * _Nonnull)wis_s :(NSString * _Nonnull)wis_sscookie OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init:(NSString * _Nonnull)wis_cburl :(NSString * _Nonnull)wis_s :(NSString * _Nonnull)wis_sscookie :(NSString * _Nonnull)wis_enable_settings OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init:(NSString * _Nonnull)wis_cburl :(NSString * _Nonnull)wis_s :(NSString * _Nonnull)wis_sscookie;
 - (void)trackAppInstallWithAdjustWithNetwork:(NSString * _Nonnull)network campaign:(NSString * _Nonnull)campaign;
 - (void)trackAppInstallWithAdjustWithNetwork:(NSString * _Nonnull)network campaign:(NSString * _Nonnull)campaign idfa:(NSString * _Nonnull)idfa;
 - (void)trackAppInstallWithAdjustWithTrackerToken:(NSString * _Nonnull)trackerToken trackerName:(NSString * _Nonnull)trackerName network:(NSString * _Nonnull)network campaign:(NSString * _Nonnull)campaign adgroup:(NSString * _Nonnull)adgroup creative:(NSString * _Nonnull)creative clickLabel:(NSString * _Nonnull)clickLabel adid:(NSString * _Nonnull)adid;
@@ -599,6 +602,7 @@ SWIFT_CLASS("_TtC7iOS_wis10Webinstats")
 - (void)trackDeepLinkWithUrl:(NSURL * _Nonnull)url;
 - (void)setApiKeyWithApi_key:(NSString * _Nonnull)api_key;
 - (void)register:(UIApplication * _Nonnull)application didFinishLaunchingWithOptions:(NSDictionary<UIApplicationLaunchOptionsKey, id> * _Nullable)launchOptions;
+- (void)register;
 - (void)didReceiveNotification:(UIApplication * _Nonnull)application didReceiveRemoteNotification:(NSDictionary * _Nonnull)userInfo;
 + (void)registerWithDeviceTokenWithDeviceToken:(NSData * _Nonnull)deviceToken;
 - (void)getMessagesFromUserDefaults;

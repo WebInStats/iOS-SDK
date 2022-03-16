@@ -54,7 +54,8 @@ extension String {
   public func urlEncoded(denying deniedCharacters: Foundation.CharacterSet = .urlDenied) -> Swift.String?
 }
 @objc public class Webinstats : ObjectiveC.NSObject, UIKit.UIApplicationDelegate {
-  @objc public init(_ wis_cburl: Swift.String, _ wis_s: Swift.String, _ wis_sscookie: Swift.String)
+  @objc public init(_ wis_cburl: Swift.String, _ wis_s: Swift.String, _ wis_sscookie: Swift.String, _ wis_enable_settings: Swift.String)
+  @objc convenience public init(_ wis_cburl: Swift.String, _ wis_s: Swift.String, _ wis_sscookie: Swift.String)
   @objc public func trackAppInstallWithAdjust(network: Swift.String, campaign: Swift.String)
   @objc public func trackAppInstallWithAdjust(network: Swift.String, campaign: Swift.String, idfa: Swift.String)
   @objc public func trackAppInstallWithAdjust(trackerToken: Swift.String, trackerName: Swift.String, network: Swift.String, campaign: Swift.String, adgroup: Swift.String, creative: Swift.String, clickLabel: Swift.String, adid: Swift.String)
@@ -85,6 +86,7 @@ extension String {
   @objc public func trackDeepLink(url: Foundation.URL)
   @objc public func setApiKey(api_key: Swift.String)
   @objc public func register(_ application: UIKit.UIApplication, didFinishLaunchingWithOptions launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?)
+  @objc public func register()
   @objc public func didReceiveNotification(_ application: UIKit.UIApplication, didReceiveRemoteNotification userInfo: [Swift.AnyHashable : Any])
   @objc public static func registerWithDeviceToken(deviceToken: Foundation.Data)
   @objc public func getMessagesFromUserDefaults()
@@ -104,8 +106,8 @@ extension String {
   @objc public static func enable_hash(hash: Swift.String)
   @objc public static func isEnabledHash() -> Swift.Bool
   @objc public static func getPushToken() -> Swift.String
-  @objc deinit
   @objc override dynamic public init()
+  @objc deinit
 }
 @available(iOS 10.0, iOSApplicationExtension 10.0, *)
 @objc extension UNNotificationAttachment {
