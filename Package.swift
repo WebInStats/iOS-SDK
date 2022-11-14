@@ -14,5 +14,5 @@ let package = Package(
 	targets: [
 		.binaryTarget(
 			name:"iOS_wis",
-			path:"iOS_wis/iOS_wis.xcframework")
+			path:"iOS_wis.xcframework")
 	])
