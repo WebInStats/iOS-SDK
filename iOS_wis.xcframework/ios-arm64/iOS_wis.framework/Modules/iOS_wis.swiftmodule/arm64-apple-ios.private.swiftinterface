@@ -1,0 +1,150 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.10 (swiftlang-5.10.0.13 clang-1500.3.9.4)
+// swift-module-flags: -target arm64-apple-ios12.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name iOS_wis
+import CoreMotion
+import Foundation
+import StoreKit
+import Swift
+import UIKit
+import UserNotifications
+import WebKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@_exported import iOS_wis
+@_inheritsConvenienceInitializers @objc public class WisInbox : ObjectiveC.NSObject {
+  @objc public func setStoreName(store_name: Swift.String)
+  @objc public func getMessageCount() -> Swift.Int
+  @objc public func getUnreadMessageCount() -> Swift.Int
+  @objc public func getUnreadMessageCountByCategory(category: Swift.String) -> Swift.Int
+  @objc public func getCategoryList() -> [Swift.String]
+  @objc public func getCategoryCount() -> Swift.Int
+  @objc public func getCategoryListwithAPI(category_callback: @escaping ([Swift.String]) -> Swift.Void)
+  @objc public func getCounts() -> [Swift.String : Swift.Int]
+  @objc public func getCountsByCategory(category: Swift.String) -> [Swift.String : Swift.Int]
+  @objc public func getMessage(id: Swift.String) -> iOS_wis.WisInboxMessage
+  @objc public func getAllMessages() -> [iOS_wis.WisInboxMessage]
+  @objc public func getMessagesByCategory(category: Swift.String) -> [iOS_wis.WisInboxMessage]
+  @objc public func markReadMessage(id: Swift.String)
+  @objc public func markReadMessageByIdlist(idList: [Swift.String])
+  @objc public func markReadMessagesByCategory(category: Swift.String)
+  @objc public func markReadAllMessages()
+  @objc public func deleteMessage(id: Swift.String) -> Swift.Bool
+  @objc public func deleteMessagesByIdlist(idList: [Swift.String])
+  @objc public func deleteMessagesByCategory(category: Swift.String)
+  @objc public func deleteAllMessages()
+  @objc public func pop() -> Swift.Bool
+  @objc public func checkMessages()
+  @objc public func checkCallback(inbox_callback: @escaping ([Swift.String : Swift.Int]) -> Swift.Void)
+  @objc public func setMessage(message: [Swift.String : Any]) -> Swift.Bool
+  @objc public func hasMessage(id: Swift.String) -> Swift.Bool
+  @objc public func storeExpiredMessage()
+  @objc public func getAllExpiredMessages() -> [iOS_wis.WisInboxMessage]
+  @objc public func getExpiredMessagesByCategory(category: Swift.String) -> [iOS_wis.WisInboxMessage]
+  @objc override dynamic public init()
+  @objc deinit
+}
+extension Foundation.CharacterSet {
+  public static let urlQueryParameterAllowed: Foundation.CharacterSet
+  public static let urlQueryDenied: Foundation.CharacterSet
+  public static let urlQueryKeyValueDenied: Foundation.CharacterSet
+  public static let urlPathDenied: Foundation.CharacterSet
+  public static let urlFragmentDenied: Foundation.CharacterSet
+  public static let urlHostDenied: Foundation.CharacterSet
+  public static let urlDenied: Foundation.CharacterSet
+  public func inverted() -> Foundation.CharacterSet
+}
+extension Swift.String {
+  public func urlEncoded(denying deniedCharacters: Foundation.CharacterSet = .urlDenied) -> Swift.String?
+}
+@objc @_Concurrency.MainActor(unsafe) public class Webinstats : ObjectiveC.NSObject, UIKit.UIApplicationDelegate {
+  @objc @_Concurrency.MainActor(unsafe) public func getSteps() -> [Swift.String]
+  @objc @_Concurrency.MainActor(unsafe) public func setStepCallback(callback: @escaping ([Swift.String]) -> Swift.Void)
+  @objc @_Concurrency.MainActor(unsafe) public init(_ wis_cburl: Swift.String, _ wis_s: Swift.String, _ wis_sscookie: Swift.String, _ wis_enable_settings: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) convenience public init(_ wis_cburl: Swift.String, _ wis_s: Swift.String, _ wis_sscookie: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func trackAppInstallWithAdjust(network: Swift.String, campaign: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func trackAppInstallWithAdjust(network: Swift.String, campaign: Swift.String, idfa: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func trackAppInstallWithAdjust(trackerToken: Swift.String, trackerName: Swift.String, network: Swift.String, campaign: Swift.String, adgroup: Swift.String, creative: Swift.String, clickLabel: Swift.String, adid: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func trackAppInstallStats(idfa: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func setAllowedFunction(allowed_functions: [Swift.String : Any])
+  @objc @_Concurrency.MainActor(unsafe) public func setAllowedDomains(allowed_domains: [Swift.String])
+  @objc @_Concurrency.MainActor(unsafe) public func enableAppInbox()
+  @objc @_Concurrency.MainActor(unsafe) public func disableAppInbox()
+  @objc @_Concurrency.MainActor(unsafe) public func setAppGroupName(group_name: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func setAppInboxHistorySize(limit: Swift.Int)
+  @objc @_Concurrency.MainActor(unsafe) public func setDefaultTimeout(default_timeout: Swift.Int)
+  @objc @_Concurrency.MainActor(unsafe) public func add_action(di: Swift.String, pt: Swift.String, v: Swift.String, id: Swift.String, to: Swift.String, lv: Swift.String, client_map: [Swift.String : Swift.String])
+  @objc @_Concurrency.MainActor(unsafe) public func add_label(di: Swift.String, pt: Swift.String, v: Swift.String, id: Swift.String, to: Swift.String, lv: Swift.String, client_map: [Swift.String : Swift.String])
+  @objc @_Concurrency.MainActor(unsafe) public func addItem(productId: Swift.String, quantity: Swift.String, price: Swift.String, category: Swift.String, title: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func addItem(productId: Swift.String, quantity: Swift.String, price: Swift.String, category: Swift.String, title: Swift.String, extraparams: [Swift.String : Swift.String])
+  @objc @_Concurrency.MainActor(unsafe) public func virtual_execute(view: UIKit.UIViewController, localmap: [Swift.String : Swift.String])
+  @objc @_Concurrency.MainActor(unsafe) public func execute(view: UIKit.UIViewController, localmap: [Swift.String : Swift.String])
+  @objc @_Concurrency.MainActor(unsafe) public func execute(view: UIKit.UIViewController, localmap: [Swift.String : Swift.String], virtual: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func getuid() -> Swift.String
+  @objc @_Concurrency.MainActor(unsafe) public static func getuid() -> Swift.String
+  @objc @_Concurrency.MainActor(unsafe) public static func _clink(parameters: [Swift.String : Any], client_map: [Swift.String : Swift.String])
+  @objc @_Concurrency.MainActor(unsafe) public static func saveClickCookie(parameters: [Swift.String : Any], view: UIKit.UIViewController, client_map: [Swift.String : Swift.String])
+  @objc @_Concurrency.MainActor(unsafe) public func saveClickEvent(parameters: [Swift.String : Any], client_map: [Swift.String : Swift.String])
+  @objc @_Concurrency.MainActor(unsafe) public func szbid(parameters: [Swift.String : Any])
+  @objc @_Concurrency.MainActor(unsafe) public func track(parameters: [Swift.String : Any], client_map: [Swift.String : Swift.String])
+  @objc @_Concurrency.MainActor(unsafe) public func onChangeState()
+  @objc @_Concurrency.MainActor(unsafe) public func saveTestParameters(url: Foundation.URL)
+  @objc @_Concurrency.MainActor(unsafe) public func pushClickCallback(callback: @escaping ([Swift.AnyHashable : Any]) -> Swift.Void)
+  @objc @_Concurrency.MainActor(unsafe) public func trackDeepLink(url: Foundation.URL, callback: (Foundation.URL) -> Swift.Void)
+  @objc @_Concurrency.MainActor(unsafe) public func trackDeepLink(url: Foundation.URL)
+  @objc @_Concurrency.MainActor(unsafe) public func setApiKey(api_key: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func register(_ application: UIKit.UIApplication, didFinishLaunchingWithOptions launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?)
+  @objc @_Concurrency.MainActor(unsafe) public func register()
+  @objc @_Concurrency.MainActor(unsafe) public func didReceiveNotification(_ application: UIKit.UIApplication, didReceiveRemoteNotification userInfo: [Swift.AnyHashable : Any])
+  @objc @_Concurrency.MainActor(unsafe) public static func registerWithDeviceToken(deviceToken: Foundation.Data)
+  @available(iOS 10.0, *)
+  @objc @_Concurrency.MainActor(unsafe) public func didReceiveNotificationExtension(_ request: UserNotifications.UNNotificationRequest, _ content: UserNotifications.UNMutableNotificationContent) -> UserNotifications.UNMutableNotificationContent
+  @available(iOS 10.0, *)
+  @objc @_Concurrency.MainActor(unsafe) public func didReceiveNotificationExtension(_ request: UserNotifications.UNNotificationRequest, _ content: UserNotifications.UNMutableNotificationContent, _ image: Swift.String) -> UserNotifications.UNMutableNotificationContent
+  @available(iOS 10.0, *)
+  @objc @_Concurrency.MainActor(unsafe) public func didReceiveNotificationExtension(_ request: UserNotifications.UNNotificationRequest, _ content: UserNotifications.UNMutableNotificationContent, _ image: Swift.String, _ inbox_name: Swift.String) -> UserNotifications.UNMutableNotificationContent
+  @objc @_Concurrency.MainActor(unsafe) public func clearCustomActions()
+  @objc @_Concurrency.MainActor(unsafe) public static func activateListingBadge(view: UIKit.UIViewController, localmap: [Swift.String : Swift.String])
+  @objc @_Concurrency.MainActor(unsafe) public func createEvent(eventname: Swift.String, view: UIKit.UIViewController, client_map: [Swift.String : Swift.String])
+  @objc @_Concurrency.MainActor(unsafe) public func setPayloadTitle(title: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func setPayloadBody(body: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func setPayloadIcon(icon: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func setPayloadSound(sound: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func setPayloadVibrate(vibrate: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func setPayloadImage(image: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func setPayloadLink(link: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public func disable_push()
+  @objc @_Concurrency.MainActor(unsafe) public static func enable_push()
+  @objc @_Concurrency.MainActor(unsafe) public static func disable_hash()
+  @objc @_Concurrency.MainActor(unsafe) public static func enable_hash(hash: Swift.String)
+  @objc @_Concurrency.MainActor(unsafe) public static func isEnabledHash() -> Swift.Bool
+  @objc @_Concurrency.MainActor(unsafe) public static func getPushToken() -> Swift.String
+  @objc deinit
+}
+@available(iOS 10.0, iOSApplicationExtension 10.0, *)
+@objc extension UserNotifications.UNNotificationAttachment {
+  @objc public static func saveImageToDisk(fileIdentifier: Swift.String, data: Foundation.Data, options: [ObjectiveC.NSObject : Swift.AnyObject]?) -> UserNotifications.UNNotificationAttachment?
+}
+@_inheritsConvenienceInitializers @objc public class WisNotificationDelegate : ObjectiveC.NSObject, UserNotifications.UNUserNotificationCenterDelegate {
+  @available(iOS 10.0, *)
+  @objc public func userNotificationCenter(_ center: UserNotifications.UNUserNotificationCenter, willPresent notification: UserNotifications.UNNotification, withCompletionHandler completionHandler: @escaping (UserNotifications.UNNotificationPresentationOptions) -> Swift.Void)
+  @available(iOS 10.0, *)
+  @objc public func userNotificationCenter(_ center: UserNotifications.UNUserNotificationCenter, didReceive response: UserNotifications.UNNotificationResponse, withCompletionHandler completionHandler: @escaping () -> Swift.Void)
+  @objc override dynamic public init()
+  @objc deinit
+}
+@_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class WisInboxMessage : ObjectiveC.NSObject {
+  @objc public var id: Swift.String
+  @objc public var updateId: Swift.String
+  @objc public var timeout: Swift.String
+  @objc public var category: Swift.String
+  @objc public var title: Swift.String
+  @objc public var message: Swift.String
+  @objc public var url: Swift.String
+  @objc public var imageUrl: Swift.String
+  @objc public var status: Swift.String
+  @objc public var date: Swift.String
+  @objc public var channel: Swift.String
+  @objc public var timeoutDate: Swift.String
+  @objc deinit
+}
