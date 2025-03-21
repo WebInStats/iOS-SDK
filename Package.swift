@@ -2,7 +2,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "MySPMProject",
+    name: "iOS_wis",
     platforms: [
         .iOS(.v13) // Minimum iOS sürümünü burada belirtebilirsiniz
     ],

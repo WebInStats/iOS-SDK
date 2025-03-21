@@ -133,6 +133,10 @@ extension Swift.String {
   @objc override dynamic public init()
   @objc deinit
 }
+@_hasMissingDesignatedInitializers public class UIHelper {
+  public static func showView(withId id: Swift.String)
+  @objc deinit
+}
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class WisInboxMessage : ObjectiveC.NSObject {
   @objc public var id: Swift.String
   @objc public var updateId: Swift.String
