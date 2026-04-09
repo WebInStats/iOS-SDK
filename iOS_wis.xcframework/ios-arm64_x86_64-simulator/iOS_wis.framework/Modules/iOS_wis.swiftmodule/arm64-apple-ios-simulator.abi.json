@@ -4071,6 +4071,13 @@
       },
       {
         "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "iOS_wis"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -14937,51 +14944,72 @@
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/StoryPopupViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 98,
+      "offset": 147,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/StoryPopupViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 195,
+      "offset": 259,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/StoryPopupViewController.swift",
       "kind": "Array",
-      "offset": 235,
+      "offset": 299,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/StoryPopupViewController.swift",
       "kind": "Array",
-      "offset": 278,
+      "offset": 342,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/StoryPopupViewController.swift",
       "kind": "Array",
-      "offset": 318,
+      "offset": 382,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/StoryPopupViewController.swift",
+      "kind": "Array",
+      "offset": 422,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/StoryPopupViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 353,
+      "offset": 457,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/StoryPopupViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 496,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/StoryPopupViewController.swift",
       "kind": "IntegerLiteral",
-      "offset": 514,
+      "offset": 664,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/StoryPopupViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 18070,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/WISGlobalVariables.swift",
