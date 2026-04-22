@@ -62,6 +62,7 @@ extension Swift.String {
   #endif
 }
 @objc @_Concurrency.MainActor @preconcurrency public class Webinstats : ObjectiveC.NSObject, UIKit.UIApplicationDelegate {
+  @_Concurrency.MainActor @preconcurrency public static var onStoryDataReady: (([Swift.String : Any]) -> Swift.Void)?
   @objc @_Concurrency.MainActor @preconcurrency public func getSteps() -> [Swift.String]
   @objc @_Concurrency.MainActor @preconcurrency public func setStepCallback(callback: @escaping ([Swift.String]) -> Swift.Void)
   @objc @_Concurrency.MainActor @preconcurrency public init(_ wis_cburl: Swift.String, _ wis_s: Swift.String, _ wis_sscookie: Swift.String, _ wis_enable_settings: Swift.String)
