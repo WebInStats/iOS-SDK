@@ -11236,3801 +11236,3808 @@
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 63884,
+      "offset": 63900,
       "length": 9,
       "value": "\"wisdyn@\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 63952,
+      "offset": 63968,
       "length": 5,
       "value": "\"run\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 64092,
+      "offset": 64108,
       "length": 14,
       "value": "\"inline_class\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 64122,
+      "offset": 64138,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 64214,
+      "offset": 64230,
       "length": 17,
       "value": "\"inline_function\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 64247,
+      "offset": 64263,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 64339,
+      "offset": 64355,
       "length": 18,
       "value": "\"inline_parameter\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 64373,
+      "offset": 64389,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 64463,
+      "offset": 64479,
       "length": 23,
       "value": "\"inline_close_function\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 64502,
+      "offset": 64518,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 64793,
+      "offset": 64825,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 64939,
+      "offset": 64971,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 64979,
+      "offset": 65011,
       "length": 18,
       "value": "\"inline_parameter\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 65071,
+      "offset": 65103,
       "length": 9,
       "value": "\"wislink\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 65135,
+      "offset": 65250,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
-      "kind": "StringLiteral",
-      "offset": 65317,
-      "length": 2,
-      "value": "\"\""
+      "kind": "BooleanLiteral",
+      "offset": 65503,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
+      "kind": "FloatLiteral",
+      "offset": 65551,
+      "length": 3,
+      "value": "1.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 65830,
+      "offset": 66338,
       "length": 9,
       "value": "\"wisdyn@\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 66370,
+      "offset": 66875,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 66375,
+      "offset": 66880,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 66513,
+      "offset": 67034,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 66526,
+      "offset": 67047,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 66632,
+      "offset": 67153,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 66861,
+      "offset": 67310,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 66936,
+      "offset": 67385,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 67087,
+      "offset": 67544,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 67230,
+      "offset": 67687,
       "length": 13,
       "value": "\"wisWebView_\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 67306,
+      "offset": 67763,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 67366,
+      "offset": 67823,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 67419,
+      "offset": 67876,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 67495,
+      "offset": 67952,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 67638,
+      "offset": 68111,
       "length": 13,
       "value": "\"wisWebView_\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 67784,
+      "offset": 68273,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 67854,
+      "offset": 68343,
       "length": 13,
       "value": "\"wisWebView_\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 68202,
+      "offset": 68723,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 68475,
+      "offset": 68996,
       "length": 7,
       "value": "\"shEvn\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 68498,
+      "offset": 69019,
       "length": 10,
       "value": "\"PAGEVIEW\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 68589,
+      "offset": 69110,
       "length": 5,
       "value": "\"evn\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 68610,
+      "offset": 69131,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 68696,
+      "offset": 69233,
       "length": 3,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 68770,
+      "offset": 69307,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 68807,
+      "offset": 69344,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 69075,
+      "offset": 69613,
       "length": 21,
       "value": "\"wiso.custom.events_\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 69319,
+      "offset": 69873,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 69491,
+      "offset": 70045,
       "length": 8,
       "value": "\"ui_sb_\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 69743,
+      "offset": 70297,
       "length": 21,
       "value": "\"wiso.custom.events_\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 69941,
+      "offset": 70511,
       "length": 51,
       "value": "\"create banner called. Inline frame did not found.\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 70016,
+      "offset": 70586,
       "length": 51,
       "value": "\"create banner called. Inline frame did not found.\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 70151,
+      "offset": 70721,
       "length": 7,
       "value": "\"shEvn\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 70174,
+      "offset": 70744,
       "length": 10,
       "value": "\"PAGEVIEW\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 70266,
+      "offset": 70836,
       "length": 5,
       "value": "\"evn\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 70287,
+      "offset": 70857,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 70328,
+      "offset": 70898,
       "length": 5,
       "value": "\"run\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 70385,
+      "offset": 70955,
       "length": 13,
       "value": "\"CUSTOMEVENT\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 70507,
+      "offset": 71077,
       "length": 11,
       "value": "\"maxrepeat\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 70534,
+      "offset": 71104,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 70543,
+      "offset": 71113,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 70635,
+      "offset": 71205,
       "length": 13,
       "value": "\"repeatevent\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 70664,
+      "offset": 71234,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 70714,
+      "offset": 71284,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 70780,
+      "offset": 71350,
       "length": 6,
       "value": "\"_cir\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 70791,
+      "offset": 71361,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 70881,
+      "offset": 71451,
       "length": 6,
       "value": "\"_cir\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 70892,
+      "offset": 71462,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 70956,
+      "offset": 71526,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71029,
+      "offset": 71599,
       "length": 3,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 71110,
+      "offset": 71680,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71181,
+      "offset": 71751,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71352,
+      "offset": 71922,
       "length": 6,
       "value": "\"_cir\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71430,
+      "offset": 72000,
       "length": 24,
       "value": "\"repeat custom event : \""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71471,
+      "offset": 72041,
       "length": 19,
       "value": "\". Repeat count : \""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71516,
+      "offset": 72086,
       "length": 23,
       "value": "\". max repeat count : \""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71640,
+      "offset": 72210,
       "length": 6,
       "value": "\"_cir\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71752,
+      "offset": 72305,
       "length": 7,
       "value": "\"ntimg\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71789,
+      "offset": 72342,
       "length": 6,
       "value": "\"nitl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71811,
+      "offset": 72364,
       "length": 6,
       "value": "\"nitr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71833,
+      "offset": 72386,
       "length": 6,
       "value": "\"nitc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71855,
+      "offset": 72408,
       "length": 6,
       "value": "\"nits\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71877,
+      "offset": 72430,
       "length": 6,
       "value": "\"nibl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71899,
+      "offset": 72452,
       "length": 6,
       "value": "\"nibr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71921,
+      "offset": 72474,
       "length": 6,
       "value": "\"nibc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 71943,
+      "offset": 72496,
       "length": 6,
       "value": "\"nibs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 72078,
+      "offset": 72631,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 72167,
+      "offset": 72720,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 72253,
+      "offset": 72806,
       "length": 3,
       "value": "216"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 72283,
+      "offset": 72836,
       "length": 3,
       "value": "216"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 72318,
+      "offset": 72871,
       "length": 6,
       "value": "\"nibs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 72340,
+      "offset": 72893,
       "length": 6,
       "value": "\"nits\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 72897,
+      "offset": 73450,
       "length": 8,
       "value": "\"height\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 73227,
+      "offset": 73780,
       "length": 6,
       "value": "\"nitl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 73478,
+      "offset": 74031,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 73533,
+      "offset": 74086,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 73607,
+      "offset": 74160,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 73619,
+      "offset": 74172,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 73633,
+      "offset": 74186,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 73781,
+      "offset": 74334,
       "length": 6,
       "value": "\"nitr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 74070,
+      "offset": 74623,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 74125,
+      "offset": 74678,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 74199,
+      "offset": 74752,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 74211,
+      "offset": 74764,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 74225,
+      "offset": 74778,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 74378,
+      "offset": 74931,
       "length": 6,
       "value": "\"nitc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 74434,
+      "offset": 74987,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 74453,
+      "offset": 75006,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 74622,
+      "offset": 75175,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 74677,
+      "offset": 75230,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 74751,
+      "offset": 75304,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 74763,
+      "offset": 75316,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 74777,
+      "offset": 75330,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 74930,
+      "offset": 75483,
       "length": 6,
       "value": "\"nits\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 75264,
+      "offset": 75817,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 75319,
+      "offset": 75872,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 75393,
+      "offset": 75946,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 75405,
+      "offset": 75958,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 75419,
+      "offset": 75972,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 75572,
+      "offset": 76125,
       "length": 6,
       "value": "\"nibl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 75799,
+      "offset": 76352,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 75811,
+      "offset": 76364,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 75825,
+      "offset": 76378,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 75974,
+      "offset": 76527,
       "length": 6,
       "value": "\"nibr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 76249,
+      "offset": 76802,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 76261,
+      "offset": 76814,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 76275,
+      "offset": 76828,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 76424,
+      "offset": 76977,
       "length": 6,
       "value": "\"nibc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 76487,
+      "offset": 77040,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 76506,
+      "offset": 77059,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 76674,
+      "offset": 77227,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 76686,
+      "offset": 77239,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 76700,
+      "offset": 77253,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 76849,
+      "offset": 77402,
       "length": 6,
       "value": "\"nibs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 77177,
+      "offset": 77730,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 77189,
+      "offset": 77742,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 77203,
+      "offset": 77756,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 77542,
+      "offset": 78095,
       "length": 6,
       "value": "\"nibs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 77564,
+      "offset": 78117,
       "length": 6,
       "value": "\"nits\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 77767,
+      "offset": 78320,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 77822,
+      "offset": 78375,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 77874,
+      "offset": 78427,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 78422,
+      "offset": 78975,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 78443,
+      "offset": 78996,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 78518,
+      "offset": 79071,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 78566,
+      "offset": 79119,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 78969,
+      "offset": 79522,
       "length": 6,
       "value": "\"nibs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 78991,
+      "offset": 79544,
       "length": 6,
       "value": "\"nits\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 79670,
+      "offset": 80223,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 80105,
+      "offset": 80658,
       "length": 7,
       "value": "\"appch\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 80142,
+      "offset": 80695,
       "length": 6,
       "value": "\"nitl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 80164,
+      "offset": 80717,
       "length": 6,
       "value": "\"nitr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 80186,
+      "offset": 80739,
       "length": 6,
       "value": "\"nitc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 80208,
+      "offset": 80761,
       "length": 6,
       "value": "\"nits\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 80230,
+      "offset": 80783,
       "length": 6,
       "value": "\"nibl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 80252,
+      "offset": 80805,
       "length": 9,
       "value": "\"appchbr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 80277,
+      "offset": 80830,
       "length": 6,
       "value": "\"nibc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 80299,
+      "offset": 80852,
       "length": 6,
       "value": "\"nibs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 80408,
+      "offset": 80961,
       "length": 4,
       "value": "\"c4\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 80428,
+      "offset": 80981,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 80515,
+      "offset": 81068,
       "length": 4,
       "value": "\"c6\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 80535,
+      "offset": 81088,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 80635,
+      "offset": 81188,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 80771,
+      "offset": 81324,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 80860,
+      "offset": 81413,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 80930,
+      "offset": 81483,
       "length": 3,
       "value": "500"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 80979,
+      "offset": 81532,
       "length": 3,
       "value": "500"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 81026,
+      "offset": 81579,
       "length": 3,
       "value": "216"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 81080,
+      "offset": 81633,
       "length": 6,
       "value": "\"nibs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 81102,
+      "offset": 81655,
       "length": 6,
       "value": "\"nits\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 81659,
+      "offset": 82212,
       "length": 8,
       "value": "\"height\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 81963,
+      "offset": 82516,
       "length": 6,
       "value": "\"nitl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 82214,
+      "offset": 82767,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 82269,
+      "offset": 82822,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 82343,
+      "offset": 82896,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 82355,
+      "offset": 82908,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 82369,
+      "offset": 82922,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 82517,
+      "offset": 83070,
       "length": 6,
       "value": "\"nitr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 82806,
+      "offset": 83359,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 82861,
+      "offset": 83414,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 82935,
+      "offset": 83488,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 82947,
+      "offset": 83500,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 82961,
+      "offset": 83514,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 83114,
+      "offset": 83667,
       "length": 6,
       "value": "\"nitc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 83170,
+      "offset": 83723,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 83189,
+      "offset": 83742,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 83358,
+      "offset": 83911,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 83413,
+      "offset": 83966,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 83487,
+      "offset": 84040,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 83499,
+      "offset": 84052,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 83513,
+      "offset": 84066,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 83666,
+      "offset": 84219,
       "length": 6,
       "value": "\"nits\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 84000,
+      "offset": 84553,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 84055,
+      "offset": 84608,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 84129,
+      "offset": 84682,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 84141,
+      "offset": 84694,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 84155,
+      "offset": 84708,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 84308,
+      "offset": 84861,
       "length": 6,
       "value": "\"nibl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 84535,
+      "offset": 85088,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 84547,
+      "offset": 85100,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 84561,
+      "offset": 85114,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 84710,
+      "offset": 85263,
       "length": 9,
       "value": "\"appchbr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 84998,
+      "offset": 85551,
       "length": 6,
       "value": "\"nibc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 85061,
+      "offset": 85614,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 85080,
+      "offset": 85633,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 85248,
+      "offset": 85801,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 85260,
+      "offset": 85813,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 85274,
+      "offset": 85827,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 85423,
+      "offset": 85976,
       "length": 6,
       "value": "\"nibs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 85751,
+      "offset": 86304,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 85763,
+      "offset": 86316,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 85777,
+      "offset": 86330,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 86116,
+      "offset": 86669,
       "length": 6,
       "value": "\"nibs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 86138,
+      "offset": 86691,
       "length": 6,
       "value": "\"nits\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 86341,
+      "offset": 86894,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 86396,
+      "offset": 86949,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 86448,
+      "offset": 87001,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 86996,
+      "offset": 87549,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 87017,
+      "offset": 87570,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 87092,
+      "offset": 87645,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 87140,
+      "offset": 87693,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 87408,
+      "offset": 87961,
       "length": 6,
       "value": "\"nibs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 87430,
+      "offset": 87983,
       "length": 6,
       "value": "\"nits\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 87996,
+      "offset": 88549,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 88069,
+      "offset": 88622,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 88115,
+      "offset": 88668,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 88127,
+      "offset": 88680,
       "length": 2,
       "value": "20"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 88565,
+      "offset": 89118,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 88761,
+      "offset": 89314,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 88825,
+      "offset": 89378,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 88938,
+      "offset": 89491,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 88966,
+      "offset": 89519,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 89177,
+      "offset": 89730,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 89205,
+      "offset": 89758,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 89280,
+      "offset": 89833,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 89301,
+      "offset": 89854,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 89374,
+      "offset": 89927,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 89632,
+      "offset": 90185,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 89869,
+      "offset": 90422,
       "length": 6,
       "value": "\"nstl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 89891,
+      "offset": 90444,
       "length": 6,
       "value": "\"nstr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 89913,
+      "offset": 90466,
       "length": 6,
       "value": "\"nstc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 89935,
+      "offset": 90488,
       "length": 6,
       "value": "\"nsts\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 89957,
+      "offset": 90510,
       "length": 6,
       "value": "\"nsbl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 89979,
+      "offset": 90532,
       "length": 6,
       "value": "\"nsbr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 90001,
+      "offset": 90554,
       "length": 6,
       "value": "\"nsbc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 90023,
+      "offset": 90576,
       "length": 6,
       "value": "\"nsbs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 90074,
+      "offset": 90627,
       "length": 3,
       "value": "110"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 90150,
+      "offset": 90703,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 90235,
+      "offset": 90788,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 90489,
+      "offset": 91042,
       "length": 4,
       "value": "\"c1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 90509,
+      "offset": 91062,
       "length": 4,
       "value": "\"80\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 90585,
+      "offset": 91138,
       "length": 4,
       "value": "\"c2\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 90605,
+      "offset": 91158,
       "length": 4,
       "value": "\"80\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 90681,
+      "offset": 91234,
       "length": 4,
       "value": "\"c3\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 90701,
+      "offset": 91254,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 90776,
+      "offset": 91329,
       "length": 4,
       "value": "\"c4\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 90796,
+      "offset": 91349,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 90870,
+      "offset": 91423,
       "length": 4,
       "value": "\"c5\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 90890,
+      "offset": 91443,
       "length": 4,
       "value": "\"20\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 90966,
+      "offset": 91519,
       "length": 4,
       "value": "\"c6\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 90986,
+      "offset": 91539,
       "length": 4,
       "value": "\"20\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91019,
+      "offset": 91572,
       "length": 4,
       "value": "\"px\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91076,
+      "offset": 91629,
       "length": 4,
       "value": "\"px\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91088,
+      "offset": 91641,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91133,
+      "offset": 91686,
       "length": 4,
       "value": "\"px\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91190,
+      "offset": 91743,
       "length": 4,
       "value": "\"px\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91202,
+      "offset": 91755,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91247,
+      "offset": 91800,
       "length": 4,
       "value": "\"px\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91304,
+      "offset": 91857,
       "length": 4,
       "value": "\"px\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91316,
+      "offset": 91869,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91361,
+      "offset": 91914,
       "length": 4,
       "value": "\"px\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91418,
+      "offset": 91971,
       "length": 4,
       "value": "\"px\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91430,
+      "offset": 91983,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91475,
+      "offset": 92028,
       "length": 4,
       "value": "\"px\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91532,
+      "offset": 92085,
       "length": 4,
       "value": "\"px\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91544,
+      "offset": 92097,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91662,
+      "offset": 92215,
       "length": 6,
       "value": "\"nsbs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91684,
+      "offset": 92237,
       "length": 6,
       "value": "\"nsts\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91920,
+      "offset": 92473,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 91932,
+      "offset": 92485,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 92012,
+      "offset": 92565,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 92081,
+      "offset": 92634,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 92168,
+      "offset": 92721,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 92470,
+      "offset": 93023,
       "length": 3,
       "value": "110"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 92608,
+      "offset": 93161,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 92653,
+      "offset": 93206,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 92697,
+      "offset": 93250,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 92819,
+      "offset": 93372,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 92880,
+      "offset": 93433,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 92993,
+      "offset": 93546,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 93107,
+      "offset": 93660,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 93359,
+      "offset": 93912,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 93392,
+      "offset": 93945,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 93415,
+      "offset": 93968,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 93455,
+      "offset": 94008,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 93563,
+      "offset": 94116,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 93596,
+      "offset": 94149,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 93619,
+      "offset": 94172,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 93716,
+      "offset": 94269,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 93929,
+      "offset": 94482,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 93975,
+      "offset": 94528,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 94107,
+      "offset": 94660,
       "length": 6,
       "value": "\"nstl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 94342,
+      "offset": 94895,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 94393,
+      "offset": 94946,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 94459,
+      "offset": 95012,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 94471,
+      "offset": 95024,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 94485,
+      "offset": 95038,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 94625,
+      "offset": 95178,
       "length": 6,
       "value": "\"nstr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 94898,
+      "offset": 95451,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 94949,
+      "offset": 95502,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 95015,
+      "offset": 95568,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 95027,
+      "offset": 95580,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 95041,
+      "offset": 95594,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 95182,
+      "offset": 95735,
       "length": 6,
       "value": "\"nstc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 95234,
+      "offset": 95787,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 95253,
+      "offset": 95806,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 95414,
+      "offset": 95967,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 95465,
+      "offset": 96018,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 95531,
+      "offset": 96084,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 95543,
+      "offset": 96096,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 95557,
+      "offset": 96110,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 95698,
+      "offset": 96251,
       "length": 6,
       "value": "\"nsts\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 96012,
+      "offset": 96565,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 96063,
+      "offset": 96616,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 96129,
+      "offset": 96682,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 96141,
+      "offset": 96694,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 96155,
+      "offset": 96708,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 96296,
+      "offset": 96849,
       "length": 6,
       "value": "\"nsbl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 96511,
+      "offset": 97064,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 96523,
+      "offset": 97076,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 96537,
+      "offset": 97090,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 96678,
+      "offset": 97231,
       "length": 6,
       "value": "\"nsbr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 96941,
+      "offset": 97494,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 96953,
+      "offset": 97506,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 96967,
+      "offset": 97520,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 97108,
+      "offset": 97661,
       "length": 6,
       "value": "\"nsbc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 97167,
+      "offset": 97720,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 97186,
+      "offset": 97739,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 97346,
+      "offset": 97899,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 97358,
+      "offset": 97911,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 97372,
+      "offset": 97925,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 97513,
+      "offset": 98066,
       "length": 6,
       "value": "\"nsbs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 97821,
+      "offset": 98374,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 97833,
+      "offset": 98386,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 97847,
+      "offset": 98400,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 98162,
+      "offset": 98715,
       "length": 6,
       "value": "\"nsbs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 98184,
+      "offset": 98737,
       "length": 6,
       "value": "\"nsts\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 98361,
+      "offset": 98914,
       "length": 6,
       "value": "\"nsbs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 98383,
+      "offset": 98936,
       "length": 6,
       "value": "\"nsts\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 98562,
+      "offset": 99115,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 98583,
+      "offset": 99136,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 98605,
+      "offset": 99158,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 98629,
+      "offset": 99182,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 98911,
+      "offset": 99464,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 98932,
+      "offset": 99485,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 98978,
+      "offset": 99531,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 99033,
+      "offset": 99586,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 99085,
+      "offset": 99638,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 99124,
+      "offset": 99677,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 99341,
+      "offset": 99894,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 99418,
+      "offset": 99971,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 99517,
+      "offset": 100070,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 99614,
+      "offset": 100167,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 99711,
+      "offset": 100264,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 99767,
+      "offset": 100320,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 100521,
+      "offset": 101074,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 101095,
+      "offset": 101648,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 101181,
+      "offset": 101734,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 101657,
+      "offset": 102210,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 101864,
+      "offset": 102417,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 101957,
+      "offset": 102510,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 102052,
+      "offset": 102605,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 102143,
+      "offset": 102696,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 102522,
+      "offset": 103075,
       "length": 6,
       "value": "\"nhtl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 102544,
+      "offset": 103097,
       "length": 6,
       "value": "\"nhtr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 102566,
+      "offset": 103119,
       "length": 6,
       "value": "\"nhtc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 102588,
+      "offset": 103141,
       "length": 6,
       "value": "\"nhts\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 102610,
+      "offset": 103163,
       "length": 6,
       "value": "\"nhbl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 102632,
+      "offset": 103185,
       "length": 6,
       "value": "\"nhbr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 102654,
+      "offset": 103207,
       "length": 6,
       "value": "\"nhbc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 102676,
+      "offset": 103229,
       "length": 6,
       "value": "\"nhbs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 102799,
+      "offset": 103352,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 102884,
+      "offset": 103437,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 102962,
+      "offset": 103515,
       "length": 3,
       "value": "216"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 102988,
+      "offset": 103541,
       "length": 3,
       "value": "216"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 103055,
+      "offset": 103608,
       "length": 6,
       "value": "\"nhbs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 103077,
+      "offset": 103630,
       "length": 6,
       "value": "\"nhts\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 103915,
+      "offset": 104468,
       "length": 6,
       "value": "\"nhtl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 104150,
+      "offset": 104703,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 104201,
+      "offset": 104754,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 104267,
+      "offset": 104820,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 104279,
+      "offset": 104832,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 104293,
+      "offset": 104846,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 104433,
+      "offset": 104986,
       "length": 6,
       "value": "\"nhtr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 104706,
+      "offset": 105259,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 104757,
+      "offset": 105310,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 104823,
+      "offset": 105376,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 104835,
+      "offset": 105388,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 104849,
+      "offset": 105402,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 104990,
+      "offset": 105543,
       "length": 6,
       "value": "\"nhtc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 105042,
+      "offset": 105595,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 105061,
+      "offset": 105614,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 105222,
+      "offset": 105775,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 105273,
+      "offset": 105826,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 105339,
+      "offset": 105892,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 105351,
+      "offset": 105904,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 105365,
+      "offset": 105918,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 105506,
+      "offset": 106059,
       "length": 6,
       "value": "\"nhts\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 105820,
+      "offset": 106373,
       "length": 4,
       "value": "2436"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 105871,
+      "offset": 106424,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 105937,
+      "offset": 106490,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 105949,
+      "offset": 106502,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 105963,
+      "offset": 106516,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 106104,
+      "offset": 106657,
       "length": 6,
       "value": "\"nhbl\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 106319,
+      "offset": 106872,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 106331,
+      "offset": 106884,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 106345,
+      "offset": 106898,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 106486,
+      "offset": 107039,
       "length": 6,
       "value": "\"nhbr\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 106749,
+      "offset": 107302,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 106761,
+      "offset": 107314,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 106775,
+      "offset": 107328,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 106916,
+      "offset": 107469,
       "length": 6,
       "value": "\"nhbc\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 106975,
+      "offset": 107528,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 106994,
+      "offset": 107547,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 107154,
+      "offset": 107707,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 107166,
+      "offset": 107719,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 107180,
+      "offset": 107733,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 107321,
+      "offset": 107874,
       "length": 6,
       "value": "\"nhbs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 107629,
+      "offset": 108182,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 107641,
+      "offset": 108194,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "Array",
-      "offset": 107655,
+      "offset": 108208,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 107970,
+      "offset": 108523,
       "length": 6,
       "value": "\"nhbs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 107992,
+      "offset": 108545,
       "length": 6,
       "value": "\"nhts\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 108188,
+      "offset": 108741,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 108240,
+      "offset": 108793,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 108288,
+      "offset": 108841,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 108808,
+      "offset": 109361,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "FloatLiteral",
-      "offset": 108829,
+      "offset": 109382,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 108896,
+      "offset": 109449,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 108940,
+      "offset": 109493,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 109130,
+      "offset": 109683,
       "length": 19,
       "value": "\"notification html\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 109440,
+      "offset": 109993,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 109551,
+      "offset": 110104,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 109697,
+      "offset": 110250,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 109805,
+      "offset": 110358,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 110553,
+      "offset": 111106,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 110566,
+      "offset": 111119,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 110668,
+      "offset": 111221,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 110784,
+      "offset": 111337,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 110855,
+      "offset": 111408,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 111035,
+      "offset": 111588,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 111147,
+      "offset": 111700,
       "length": 6,
       "value": "\"nhbs\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 111169,
+      "offset": 111722,
       "length": 6,
       "value": "\"nhts\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 111324,
+      "offset": 111877,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 111582,
+      "offset": 112135,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 111650,
+      "offset": 112203,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 111781,
+      "offset": 112334,
       "length": 3,
       "value": "\"1\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 112424,
+      "offset": 112977,
       "length": 7,
       "value": "\"badge\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 112448,
+      "offset": 113001,
       "length": 7,
       "value": "\"bdgai\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 112471,
+      "offset": 113024,
       "length": 7,
       "value": "\"bdgat\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 112494,
+      "offset": 113047,
       "length": 7,
       "value": "\"bdgah\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 112517,
+      "offset": 113070,
       "length": 7,
       "value": "\"bdgdi\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 112540,
+      "offset": 113093,
       "length": 7,
       "value": "\"bdgdt\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 112563,
+      "offset": 113116,
       "length": 7,
       "value": "\"bdgdh\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 112610,
+      "offset": 113163,
       "length": 21,
       "value": "\"badge banner called\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 112808,
+      "offset": 113361,
       "length": 4,
       "value": "\"bo\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 112828,
+      "offset": 113381,
       "length": 4,
       "value": "\"{}\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 112863,
+      "offset": 113416,
       "length": 5,
       "value": "\"run\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 112920,
+      "offset": 113473,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 112944,
+      "offset": 113497,
       "length": 21,
       "value": "\"@getmsgforvalidlist\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 113009,
+      "offset": 113562,
       "length": 22,
       "value": "\"old system triggered\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 113234,
+      "offset": 113787,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 113356,
+      "offset": 113909,
       "length": 3,
       "value": "\"i\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 113375,
+      "offset": 113928,
       "length": 3,
       "value": "\"0\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 113460,
+      "offset": 114013,
       "length": 3,
       "value": "\"p\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 113479,
+      "offset": 114032,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 113562,
+      "offset": 114115,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 113777,
+      "offset": 114330,
       "length": 65,
       "value": "\"webinstats_log : found list inline banner with this selector : \""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 113881,
+      "offset": 114434,
       "length": 65,
       "value": "\"webinstats_log : found list inline banner with this selector : \""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 114052,
+      "offset": 114605,
       "length": 9,
       "value": "\"wisdyn@\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "BooleanLiteral",
-      "offset": 114369,
+      "offset": 114922,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 114470,
+      "offset": 115023,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 114475,
+      "offset": 115028,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 115028,
+      "offset": 115581,
       "length": 14,
       "value": "\"inline_class\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 115058,
+      "offset": 115611,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 115150,
+      "offset": 115703,
       "length": 17,
       "value": "\"inline_function\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 115183,
+      "offset": 115736,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 115275,
+      "offset": 115828,
       "length": 18,
       "value": "\"inline_parameter\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 115309,
+      "offset": 115862,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 115353,
+      "offset": 115906,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 115541,
+      "offset": 116094,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 115585,
+      "offset": 116138,
       "length": 18,
       "value": "\"inline_parameter\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 115685,
+      "offset": 116238,
       "length": 9,
       "value": "\"wislink\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 115746,
+      "offset": 116299,
       "length": 8,
       "value": "\"wislid\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 116052,
+      "offset": 116605,
       "length": 21,
       "value": "\"@getmsgforvalidlist\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 116117,
+      "offset": 116670,
       "length": 22,
       "value": "\"new system triggered\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 116163,
+      "offset": 116716,
       "length": 39,
       "value": "\"webinstats_log : new system triggered\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 116268,
+      "offset": 116821,
       "length": 3,
       "value": "\"|\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 116311,
+      "offset": 116864,
       "length": 1,
       "value": "5"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 116472,
+      "offset": 117025,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 116556,
+      "offset": 117109,
       "length": 4,
       "value": "\"'\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 116568,
+      "offset": 117121,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 116623,
+      "offset": 117176,
       "length": 9,
       "value": "\".number\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 116734,
+      "offset": 117287,
       "length": 9,
       "value": "\".number\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 116835,
+      "offset": 117388,
       "length": 4,
       "value": "\").\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 117089,
+      "offset": 117642,
       "length": 15,
       "value": "\"$$FORMATTED$$\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 117234,
+      "offset": 117787,
       "length": 3,
       "value": "\"-\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 117345,
+      "offset": 117898,
       "length": 3,
       "value": "\"-\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 117409,
+      "offset": 117962,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 117456,
+      "offset": 118009,
       "length": 9,
       "value": "\"decimal\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 117489,
+      "offset": 118042,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 117535,
+      "offset": 118088,
       "length": 12,
       "value": "\"tseperator\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 117571,
+      "offset": 118124,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 117599,
+      "offset": 118152,
       "length": 4,
       "value": "\").\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 117611,
+      "offset": 118164,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 117658,
+      "offset": 118211,
       "length": 12,
       "value": "\"dseperator\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 117694,
+      "offset": 118247,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 117752,
+      "offset": 118305,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 117764,
+      "offset": 118317,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 117849,
+      "offset": 118402,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 117876,
+      "offset": 118429,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 117928,
+      "offset": 118481,
       "length": 10,
       "value": "\"variable\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 117958,
+      "offset": 118511,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 117986,
+      "offset": 118539,
       "length": 18,
       "value": "\".number_format($\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 118012,
+      "offset": 118565,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 118063,
+      "offset": 118616,
       "length": 10,
       "value": "\"operator\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 118093,
+      "offset": 118646,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 118143,
+      "offset": 118696,
       "length": 8,
       "value": "\"number\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 118171,
+      "offset": 118724,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 118306,
+      "offset": 118859,
       "length": 13,
       "value": "\"text_format\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 118409,
+      "offset": 118962,
       "length": 14,
       "value": "\"wiso_badges_\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 118489,
+      "offset": 119042,
       "length": 4,
       "value": "\"bo\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 118538,
+      "offset": 119091,
       "length": 5,
       "value": "\"run\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 118589,
+      "offset": 119142,
       "length": 10,
       "value": "\"selector\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 118650,
+      "offset": 119203,
       "length": 10,
       "value": "\"function\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 118732,
+      "offset": 119285,
       "length": 18,
       "value": "\"campaign_message\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 118804,
+      "offset": 119357,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 118816,
+      "offset": 119369,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "IntegerLiteral",
-      "offset": 118878,
+      "offset": 119431,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 118906,
+      "offset": 119459,
       "length": 3,
       "value": "\" \""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 118916,
+      "offset": 119469,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 118945,
+      "offset": 119498,
       "length": 3,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 118992,
+      "offset": 119545,
       "length": 5,
       "value": "\"ids\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 119082,
+      "offset": 119635,
       "length": 21,
       "value": "\"badge content saved\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 119293,
+      "offset": 119846,
       "length": 14,
       "value": "\"wiso_badges_\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 119451,
+      "offset": 120004,
       "length": 4,
       "value": "\"ar\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 119634,
+      "offset": 120187,
       "length": 22,
       "value": "\"?action=write-review\""
     },
     {
       "filePath": "\/Users\/semihwebinstats\/Documents\/GitHub\/ios_wis_sdk\/iOS_wis\/iOS_wis\/popUpController.swift",
       "kind": "StringLiteral",
-      "offset": 119700,
+      "offset": 120253,
       "length": 22,
       "value": "\"Expected a valid URL\""
     },
