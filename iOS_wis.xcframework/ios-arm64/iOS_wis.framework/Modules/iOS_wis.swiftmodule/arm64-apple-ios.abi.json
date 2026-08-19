@@ -2375,6 +2375,49 @@
           },
           {
             "kind": "Function",
+            "name": "processAppData",
+            "printedName": "processAppData(jsonData:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Dictionary",
+                "printedName": "[Swift.String : Any]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ProtocolComposition",
+                    "printedName": "Any"
+                  }
+                ],
+                "usr": "s:SD"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "c:@M@iOS_wis@objc(cs)Webinstats(im)processAppDataWithJsonData:",
+            "mangledName": "$s7iOS_wis10WebinstatsC14processAppData04jsonF0ySDySSypG_tF",
+            "moduleName": "iOS_wis",
+            "objc_name": "processAppDataWithJsonData:",
+            "declAttributes": [
+              "Preconcurrency",
+              "Custom",
+              "AccessControl",
+              "ObjC"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
             "name": "getuid",
             "printedName": "getuid()",
             "children": [

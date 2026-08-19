@@ -86,6 +86,7 @@ extension Swift.String {
   @objc @_Concurrency.MainActor @preconcurrency public static func handleDeeplink(completion: @escaping (Swift.String) -> Swift.Void)
   @objc @_Concurrency.MainActor @preconcurrency public func execute(view: UIKit.UIViewController, localmap: [Swift.String : Swift.String])
   @objc @_Concurrency.MainActor @preconcurrency public func execute(view: UIKit.UIViewController, localmap: [Swift.String : Swift.String], virtual: Swift.String)
+  @objc @_Concurrency.MainActor @preconcurrency public func processAppData(jsonData: [Swift.String : Any])
   @objc @_Concurrency.MainActor @preconcurrency public func getuid() -> Swift.String
   @objc @_Concurrency.MainActor @preconcurrency public static func getuid() -> Swift.String
   @objc @_Concurrency.MainActor @preconcurrency public static func _clink(parameters: [Swift.String : Any], client_map: [Swift.String : Swift.String])

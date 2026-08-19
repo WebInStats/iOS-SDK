@@ -345,6 +345,7 @@ SWIFT_CLASS("_TtC7iOS_wis10Webinstats")
 + (void)handleDeeplinkWithCompletion:(void (^ _Nonnull)(NSString * _Nonnull))completion;
 - (void)executeWithView:(UIViewController * _Nonnull)view localmap:(NSDictionary<NSString *, NSString *> * _Nonnull)localmap;
 - (void)executeWithView:(UIViewController * _Nonnull)view localmap:(NSDictionary<NSString *, NSString *> * _Nonnull)localmap virtual:(NSString * _Nonnull)virtual_;
+- (void)processAppDataWithJsonData:(NSDictionary<NSString *, id> * _Nonnull)jsonData;
 - (NSString * _Nonnull)getuid SWIFT_WARN_UNUSED_RESULT;
 + (NSString * _Nonnull)getuid SWIFT_WARN_UNUSED_RESULT;
 + (void)_clinkWithParameters:(NSDictionary<NSString *, id> * _Nonnull)parameters client_map:(NSDictionary<NSString *, NSString *> * _Nonnull)client_map;
